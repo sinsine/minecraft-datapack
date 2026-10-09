@@ -10,7 +10,9 @@ instead of trusted.
 | `datapack-folder-renames.md` | The 1.21 plural→singular registry folder rename (split across 24w19a and 24w21a), the two 26.3 worldgen renames, and the release that introduced each modern registry directory. |
 | `mcfunction-reference.md` | Command and function grammar copied verbatim from the wiki, with a version-gated difference table, a grammar wall for copy-paste, and an uncertainties section. |
 | `mcfunction-gotchas.md` | WRONG/RIGHT traps collected by category, including a "looks wrong but is not" section and a list of things the wiki does not state. |
-| `_parts/`, `_gen_pack_formats.ps1` | Intermediate extraction output. Safe to delete. |
+
+The intermediate extraction output (`_parts/`, a scratch generator script) is not
+published here. Only what can be re-read and audited is.
 
 ## What consumes it
 
