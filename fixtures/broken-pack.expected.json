@@ -1,0 +1,21 @@
+{
+  "$comment": "Frozen expectation for the broken fixture: the exact multiset of diagnostic codes it must produce. The self-test fails on a missing code (a check that stopped working) and on an unexpected code (a false positive), so both regression directions are covered without launching Minecraft.",
+  "codes": {
+    "MC-STRUCT-003": 1,
+    "MC-STRUCT-006": 1,
+    "MC-JSON-001": 1,
+    "MC-FUNC-002": 1,
+    "MC-FUNC-012": 1,
+    "MC-FUNC-016": 1,
+    "MC-FUNC-027": 1,
+    "MC-FUNC-040": 1,
+    "MC-VERSION-002": 1,
+    "MC-TAG-004": 1,
+    "MC-REG-001": 1,
+    "MC-REG-042": 1,
+    "MC-REF-001": 1,
+    "MC-REF-010": 1,
+    "MC-REF-011": 1,
+    "MC-REF-020": 1
+  }
+}

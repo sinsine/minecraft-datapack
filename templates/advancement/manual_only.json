@@ -1,0 +1,9 @@
+{
+  "criteria": {
+    "manual": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [ [ "manual" ] ],
+  "rewards": {
+    "function": "mypack:on_advancement"
+  }
+}

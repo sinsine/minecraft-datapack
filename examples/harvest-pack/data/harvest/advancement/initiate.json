@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:golden_hoe" },
+    "title": "Initiate of the Harvest",
+    "description": "Reach 10 harvest points by standing on farmland",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [ [ "manual" ] ],
+  "rewards": {
+    "function": "harvest:reset_points"
+  }
+}

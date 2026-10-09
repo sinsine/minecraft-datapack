@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Clean fixture — must validate with zero diagnostics",
+    "pack_format": 81
+  }
+}

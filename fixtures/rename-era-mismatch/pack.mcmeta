@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Plural folder names on a 1.21.8 target: must be reported twice",
+    "pack_format": 81
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:diamond" },
+    "title": "Fixture Welcome",
+    "description": "Get greeted by the clean fixture"
+  },
+  "criteria": {
+    "tick": { "trigger": "minecraft:tick" }
+  },
+  "rewards": {
+    "function": "cleanfixture:greet"
+  }
+}

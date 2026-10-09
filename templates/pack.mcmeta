@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "REPLACE: one sentence shown in the datapack list",
+    "min_format": [121, 0],
+    "max_format": [121, 0]
+  }
+}

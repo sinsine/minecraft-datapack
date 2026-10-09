@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:diamond" },
+    "title": "First Diamond",
+    "description": "Pick up a diamond"
+  },
+  "criteria": {
+    "pickup": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [ { "items": "minecraft:diamond" } ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "starter:count_diamond"
+  }
+}

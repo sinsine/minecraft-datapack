@@ -1,0 +1,4 @@
+[
+  { "function": "minecraft:set_count", "count": 2, "add": true },
+  { "function": "minecraft:limit_count", "limit": { "max": 16 } }
+]

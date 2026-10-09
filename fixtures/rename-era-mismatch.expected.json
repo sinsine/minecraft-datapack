@@ -1,0 +1,4 @@
+{
+  "$comment": "A 1.21.8 pack that uses the pre-1.21 plural folder names: exactly two rename errors, one for the registry folder and one for the tag folder, and nothing else.",
+  "codes": { "MC-STRUCT-013": 2 }
+}

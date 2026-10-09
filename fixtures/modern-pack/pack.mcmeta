@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Modern-era fixture: 26.3, so the format lives in min_format/max_format",
+    "min_format": [121, 0],
+    "max_format": [121, 0]
+  }
+}

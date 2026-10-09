@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DD",
+    "DD"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "id": "minecraft:diamond_block", "count": 1 }
+}

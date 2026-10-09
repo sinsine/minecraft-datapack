@@ -1,0 +1,4 @@
+{
+  "$comment": "A 1.20.4 pack that uses the post-1.21 singular folder names: exactly two errors, one for the registry folder and one for the tag folder, and nothing else.",
+  "codes": { "MC-STRUCT-014": 2 }
+}

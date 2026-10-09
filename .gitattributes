@@ -1,0 +1,6 @@
+# Everything here is text and the tools read both endings, so store one.
+* text=auto eol=lf
+
+# PNG icons and structure templates are binary.
+*.png binary
+*.nbt binary

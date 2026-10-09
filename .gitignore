@@ -1,0 +1,15 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Validator reports are output, not source
+*.report.json
+report.json

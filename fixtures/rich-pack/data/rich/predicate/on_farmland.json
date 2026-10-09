@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+      "condition": "minecraft:location_check",
+      "predicate": { "biome": "minecraft:plains" }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": { "flags": { "is_sneaking": false } }
+    }
+  ]
+}

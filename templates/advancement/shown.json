@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:diamond" },
+    "title": "REPLACE: shown in the advancement screen",
+    "description": "REPLACE: one line of description",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [ { "items": "minecraft:diamond" } ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "mypack:on_advancement"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": { "id": "minecraft:wheat" },
+    "title": "Festival Regular",
+    "description": "Earn ten festival points",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "manual": { "trigger": "minecraft:impossible" }
+  },
+  "requirements": [ [ "manual" ] ],
+  "rewards": {
+    "function": "rich:milestone"
+  }
+}
